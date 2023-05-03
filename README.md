@@ -1,4 +1,5 @@
-+ACM- Cpp-Codes
-+bpA--+AD4- +fudif04ObT51H/8MU1V+52J/W55iGA-
-+aiFnfw--+W2ZOYI/bljY- -+AD4- +aiFnf3x7W55iGA-
-myArray -+AD4- +dvRjpYu/le5/pE9T/wxlcH7EfHt2hGeEXvo-
+﻿# Cpp-Codes
+源-> 继承与派生，单继承实战
+模板-学习进阶 -> 模板类实战
+myArray -> 直接访问群体，数组类的构建
+
